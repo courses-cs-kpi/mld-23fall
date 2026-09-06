@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Головна
 tagline: Дослідження і проектування інтелектуальних систем
-description: КПІ ім. Ігоря Сікорського - Осінь, 2025
+description: КПІ ім. Ігоря Сікорського - Осінь, 2026
 author: Юрій Кочура
-baseurl: '/mld-25fall' # the subpath of your site, e.g. /blog
+baseurl: '/mld-26fall' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
 aux_links_new_tab: true
-footer_content: 'Юрій Кочура &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Юрій Кочура &copy; 2026 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:

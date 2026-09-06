@@ -2,11 +2,11 @@
 title: Вступ
 ---
 
-09 вер
+07 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/course-details.pdf)]
 
-16 вер
+<!-- 16 вер
 : **Лекція 1**{: .label .label-green } **Повнозв'язні та згорткові мережі**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture1.pdf)]
 
@@ -31,7 +31,7 @@ title: Вступ
 17 лис
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
   : [[PDF](https://ykochura.github.io/mld-kpi/seminar/topics.pdf)]  
-
+ -->
 
 <!-- : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/mld-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/mld-kpi/pdf/lecture1.pdf)] -->
